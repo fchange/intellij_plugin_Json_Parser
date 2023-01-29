@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fchange.intellijpluginjsonparser.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fchange.intellijpluginjsonparser.MyBundle
 
 class MyApplicationService {
 
